@@ -28,6 +28,7 @@ def print_i():
 def print_j():
     print(0, end="")    
 
+
 print_h(), 
 print_h(), 
 print_j(), 
